@@ -1,0 +1,34 @@
+1551914710.09913,3d44,6 
+
+Command line:
+C:\Users\Shawn\AppData\Local\Roblox\Versions\version-a362b3b2b7a74781\RobloxStudioBeta.exe -startEvent www.roblox.com/robloxQTStudioStartedEvent
+
+
+1551914710.09996,3d44,6 Finding AppSettings.xml
+1551914710.10005,3d44,6 Opening AppSettings.xml
+1551914710.10011,3d44,6 Parsing AppSettings.xml
+1551914710.10032,3d44,6 Looking for 'Settings' element in AppSettings.xml
+1551914710.10038,3d44,6 Looking for 'ContentFolder' element in AppSettings.xml
+1551914710.10038,3d44,6 Looking for 'BaseUrl' element in AppSettings.xml
+1551914710.10038,3d44,6 BaseUrl loaded from 'AppSettings.Xml'
+1551914710.10038,3d44,6 Looking for 'IsScriptAssetUploadEnabled' element in AppSettings.xml
+1551914710.10038,3d44,6 Looking for 'IsAnimationAssetUploadEnabled' element in AppSettings.xml
+1551914710.10038,3d44,6 Looking for 'IsImageModelAssetUploadEnabled' element in AppSettings.xml
+1551914710.10038,3d44,6 Looking for 'CrashMenu' element in AppSettings.xml
+1551914710.10138,3d44,6 fetchClientSettingDataViaHttps
+1551914710.29072,3d44,6 LoadClientSettingsFromLocal group: "ClientAppSettings"
+1551914710.29172,3d44,6 LoadClientSettingsFromLocal group: "StudioAppSettings"
+1551914710.29473,3d44,6 CrashReporter Start
+1551914710.29473,3940,6 WatcherThread Started
+1551914710.51155,3d44,6 Info: RobloxMainWindow::RobloxMainWindow - start
+1551914710.71239,3d44,6 Info: RPC:Constructor Started server - RBX_STUDIO_14744
+1551914710.71339,3d44,6 StudioABTests using browserTrackerId 39640493396
+1551914711.03954,3d44,6 setAssetFolder C:/Users/Shawn/AppData/Local/Roblox/Versions/version-a362b3b2b7a74781/content
+1551914711.04354,3d44,6 Reflection::load C:/Users/Shawn/AppData/Local/Roblox/Versions/version-a362b3b2b7a74781\ReflectionMetadata.xml
+1551914711.93167,3d44,6 Info: RobloxMainWindow::showNativeLoginPageWidgets
+1551914711.94365,3d44,6 Info: RobloxMainWindow::RobloxMainWindow - end
+1551914712.66286,3d44,6 Info: RobloxMainWindow::showNativeStartPageWidgets
+1551914712.97231,3940,6 Info: StartProcessException...
+1551914714.56410,3940,6 Info: Uploading crash analytics...
+1551914714.56410,3940,6 Info: Done uploading crash analytics
+1551914714.57012,3940,6 Info: WatcherThread Exiting.
